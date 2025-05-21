@@ -131,23 +131,6 @@
       .cls-5 {
         fill: #ffeebf;
       }
-      svg{
-      margin: auto;
-      height: 100vh;
-      width: 100vh;
-      animation: loading 6s linear infinite;
-      }
-      @keyframes loading {
-      0% {
-      scale: 0.9;
-      }
-      50% {
-      scale: 1;
-      }
-      100% {
-      scale: 0.9;
-      }
-      }
     </style>
     <linearGradient
        xlink:href="#linearGradient1853-8-2"
